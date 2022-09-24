@@ -1,0 +1,126 @@
+{
+  "name": "USDT DeFi Default List",
+  "timestamp": "2021-05-06T00:00:00Z",
+  "version": {
+    "major": 3,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://swap.usdt-defi.io/logo.png",
+  "keywords": ["pancake", "default"],
+  "tokens": [
+    {
+      "name": "USDT DeFi",
+      "symbol": "USDTd",
+      "address": "0x93D00A0fBd822F249458C5f973bee6C5248670a9",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.usdt-defi.io/images/tokens/0x93D00A0fBd822F249458C5f973bee6C5248670a9.png"
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.usdt-defi.io/images/tokens/0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c.png"
+    },
+    {
+      "name": "Binance-Peg USD Coin",
+      "symbol": "USDC",
+      "address": "0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.usdt-defi.io/images/tokens/0x8AC76a51cc950d9822D68b83fE1Ad97B32Cd580d.png"
+    },
+    {
+      "name": "Matic Token",
+      "symbol": "MATIC",
+      "address": "0xcc42724c6683b7e57334c4e856f4c9965ed682bd",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.usdt-defi.io/images/tokens/0xcc42724c6683b7e57334c4e856f4c9965ed682bd.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.usdt-defi.io/images/tokens/0xe9e7cea3dedca5984780bafc599bd69add087d56.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.usdt-defi.io/images/tokens/0x2170ed0880ac9a755fd29b2688956bd959f933f8.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.usdt-defi.io/images/tokens/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c.png"
+    },
+    {
+      "name": "CAKE",
+      "symbol": "CAKE",
+      "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82.png"
+      },
+      {
+      "name": "Axie Infinity",
+      "symbol": "AXS",
+      "address": "0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://pancakeswap.finance/images/tokens/0x715D400F88C167884bbCc41C5FeA407ed4D2f8A0.png"
+      },
+      {
+      "name": "Katana Inu",
+      "symbol": "KATA",
+      "address": "0x6D6bA21E4C4b29CA7Bfa1c344Ba1E35B8DaE7205",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.usdt-defi.io/images/tokens/0x6D6bA21E4C4b29CA7Bfa1c344Ba1E35B8DaE7205.png"
+      },
+      {
+      "name": "Shilly Bar",
+      "symbol": "SHBAR",
+      "address": "0xf3bebB4f2D348e44cC4547Cba2F96C214fE5A25A",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.usdt-defi.io/images/tokens/0xf3bebB4f2D348e44cC4547Cba2F96C214fE5A25A.png"
+      },
+      {
+        "name": "Bitonium",
+        "symbol": "ONI",
+        "address": "0x7e1168A00Dd7d13e14e3f1B4035fd34c757959Bc",
+        "chainId": 56,
+        "decimals": 18,
+        "logoURI": "https://swap.usdt-defi.io/images/tokens/0x7e1168A00Dd7d13e14e3f1B4035fd34c757959Bc.png"
+        },
+      {
+      "name": "Galaga Token",
+      "symbol": "GLG",
+      "address": "0x5448d9fc695B5f1E244c374Cf4B398770d788f96",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.usdt-defi.io/images/tokens/0x5448d9fc695B5f1E244c374Cf4B398770d788f96.png"
+      },
+      {
+      "name": "EFT Token",
+      "symbol": "EFT",
+      "address": "0x2eb198ab1a678f3a67f55219e8b408c9b713e825",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "https://swap.usdt-defi.io/images/tokens/0x2eb198ab1a678f3a67f55219e8b408c9b713e825.png"
+      }
+  ]
+}
